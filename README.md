@@ -5,3 +5,4 @@ MAP of the repository:
 02-class-id-selectors: Here I'm adding id and classes on the HTML tags. 
 03-group-selectors: Just to work with class and id on the same tag. 
 04-chaining-selectors: A simple excercise that shows how chain different selectors. 
+05-descendant-combinator: This is an exercise that shows how to use the descendant items. How style an item inside an item. 

@@ -6,3 +6,4 @@ MAP of the repository:
 03-group-selectors: Just to work with class and id on the same tag. 
 04-chaining-selectors: A simple excercise that shows how chain different selectors. 
 05-descendant-combinator: This is an exercise that shows how to use the descendant items. How style an item inside an item. 
+01-margin-and-padding-a: An excercise to play with margin and padding. 

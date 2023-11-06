@@ -9,4 +9,5 @@ MAP of the repository:
 01-margin-and-padding-1: An excercise to play with margin and padding. 
 02-margin-and-padding-2: Another excercise to play with margin and padding and in this case, with display. 
 01-flex-center: Basic excercise on how to center a div. 
-02-flex-header: Basix excercise that shows how to flex a header. 
+02-flex-header: Basic excercise that shows how to flex a header. 
+03-flex-header2: Here you can see how to a container element can contain another container element that can contain another container element and so on. 

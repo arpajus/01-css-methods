@@ -8,4 +8,5 @@ MAP of the repository:
 05-descendant-combinator: This is an exercise that shows how to use the descendant items. How style an item inside an item. 
 01-margin-and-padding-1: An excercise to play with margin and padding. 
 02-margin-and-padding-2: Another excercise to play with margin and padding and in this case, with display. 
-01-flex-center: Basic excecise on how to center a div. 
+01-flex-center: Basic excercise on how to center a div. 
+02-flex-header: Basix excercise that shows how to flex a header. 

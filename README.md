@@ -11,3 +11,4 @@ MAP of the repository:
 01-flex-center: Basic excercise on how to center a div. 
 02-flex-header: Basic excercise that shows how to flex a header. 
 03-flex-header2: Here you can see how to a container element can contain another container element that can contain another container element and so on. 
+04-flex-information: Another way of how to flex different things. 

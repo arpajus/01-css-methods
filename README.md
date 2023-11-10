@@ -13,3 +13,4 @@ MAP of the repository:
 03-flex-header2: Here you can see how to a container element can contain another container element that can contain another container element and so on. 
 04-flex-information: Another way of how to flex different things. 
 05-flex-modal: Flex an alart message. 
+06-flex-layot: Flexing a full first page, including header, content and footer. 
